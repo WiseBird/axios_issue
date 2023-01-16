@@ -1,0 +1,10 @@
+{
+  "name": "axios_issue",
+  "version": "1.0.0",
+  "dependencies": {
+    "@slack/web-api": "6.8.0"
+  },
+  "resolutions": {
+    "axios": "1.2.1"
+  }
+}
